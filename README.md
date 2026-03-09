@@ -19,4 +19,4 @@ This project is a Flutter application that demonstrates how to effectively displ
 ### Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repository-link>
+   git clone <https://github.com/mdasifhusain6-art>
